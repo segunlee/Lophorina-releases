@@ -6,6 +6,14 @@
         <description>Lophorina changelog</description>
         <language>en</language>
         <item>
+            <title>1.0.2</title>
+            <pubDate>Tue, 12 May 2026 17:56:22 +0900</pubDate>
+            <sparkle:version>3</sparkle:version>
+            <sparkle:shortVersionString>1.0.2</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/segunlee/Lophorina-releases/releases/download/v1.0.2/Lophorina.dmg" length="8669665" type="application/octet-stream" sparkle:edSignature="XOTHk4DzrnfLT5E/gv4/AfaClznTMMgrk9RTiPLspfIKzUOYXO5yrcYBS7LLaa5N3XL+vr8ziFWFtu3lgV1/Ag=="/>
+        </item>
+        <item>
             <title>1.0.1</title>
             <pubDate>Tue, 12 May 2026 11:17:55 +0900</pubDate>
             <sparkle:version>2</sparkle:version>
