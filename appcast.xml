@@ -9,9 +9,9 @@
             <title>1.0.4</title>
             <pubDate>Tue, 12 May 2026 10:48:46 +0900</pubDate>
             <sparkle:version>1</sparkle:version>
-            <sparkle:shortVersionString>1.0.4</sparkle:shortVersionString>
+            <sparkle:shortVersionString>1.0.5</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/segunlee/Lophorina-releases/releases/download/v1.0.4/Lophorina.dmg" length="8554651" type="application/octet-stream" sparkle:edSignature="Kj99n9OJzOj7QpB5wtZy3psHLGroJzpX53wCQKZZhzyVJ2shTMXCTxd2mlg/GpBhDEHlIZq4l3PMQ3fHcvhVBw=="/>
+            <enclosure url="https://github.com/segunlee/Lophorina-releases/releases/download/v1.0.5/Lophorina.dmg" length="8554038" type="application/octet-stream" sparkle:edSignature="KPt3VLPuRXDssW2g73ITdt2/UdHCEsJamqAhLaWAnlhVEGciF/UN+E7BgPAp7bIPDyQfEeL+67mtWKkOWZ+fDw=="/>
         </item>
     </channel>
 </rss>
