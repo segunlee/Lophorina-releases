@@ -1,9 +1,17 @@
-<?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" xmlns:dc="http://purl.org/dc/elements/1.1/">
-  <channel>
-    <title>Lophorina</title>
-    <link>https://github.com/segunlee/Lophorina-releases</link>
-    <description>Lophorina changelog</description>
-    <language>en</language>
-  </channel>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0">
+    <channel>
+        <title>Lophorina</title>
+        <link>https://github.com/segunlee/Lophorina-releases</link>
+        <description>Lophorina changelog</description>
+        <language>en</language>
+        <item>
+            <title>1.0.0</title>
+            <pubDate>Tue, 12 May 2026 11:14:30 +0900</pubDate>
+            <sparkle:version>1</sparkle:version>
+            <sparkle:shortVersionString>1.0.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/segunlee/Lophorina-releases/releases/download/v1.0.0/Lophorina.dmg" length="8554534" type="application/octet-stream" sparkle:edSignature="QOCnrzwGB0ihy5pWkiQ81AlGihzhz5EpEbyJ6efahcDOiHxQX7cTroDmtgjmS9ink2cnziXym7FmulsXAJKiAg=="/>
+        </item>
+    </channel>
 </rss>
