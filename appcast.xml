@@ -6,6 +6,14 @@
         <description>Lophorina changelog</description>
         <language>en</language>
         <item>
+            <title>1.0.6</title>
+            <pubDate>Mon, 18 May 2026 09:55:53 +0900</pubDate>
+            <sparkle:version>7</sparkle:version>
+            <sparkle:shortVersionString>1.0.6</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/segunlee/Lophorina-releases/releases/download/v1.0.6/Lophorina.dmg" length="8963695" type="application/octet-stream" sparkle:edSignature="ItOBTellWU2KA9yg5CryChY46cNU0+UOxVbnCm0QN0zU5WjSveLyIOQdvTWaCxhiHZxjhZLjlxHikt5yIbh5Cw=="/>
+        </item>
+        <item>
             <title>1.0.5</title>
             <pubDate>Fri, 15 May 2026 16:32:53 +0900</pubDate>
             <sparkle:version>6</sparkle:version>
@@ -20,14 +28,6 @@
             <sparkle:shortVersionString>1.0.4</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
             <enclosure url="https://github.com/segunlee/Lophorina-releases/releases/download/v1.0.4/Lophorina.dmg" length="8759631" type="application/octet-stream" sparkle:edSignature="CsaAE/qjCmubwQSb1CAIEg4Wuj81b11dazUVxwpZSj3KIxlTL8dNzmxaozmggR8s/8CD4vYT1JlsWcAHEq6tAw=="/>
-        </item>
-        <item>
-            <title>1.0.3</title>
-            <pubDate>Wed, 13 May 2026 11:13:03 +0900</pubDate>
-            <sparkle:version>4</sparkle:version>
-            <sparkle:shortVersionString>1.0.3</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/segunlee/Lophorina-releases/releases/download/v1.0.3/Lophorina.dmg" length="8669881" type="application/octet-stream" sparkle:edSignature="rdW9yM4h8/wo/FDLIXGpGmhefRos7WK+uJJ0MGghlnM3jrv6ZoaoZ4aibnJWk1fb0Z6yUg8dNsMOjbWQvEMwDQ=="/>
         </item>
     </channel>
 </rss>
