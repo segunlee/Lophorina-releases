@@ -11,7 +11,7 @@
             <sparkle:version>9</sparkle:version>
             <sparkle:shortVersionString>1.0.8</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/segunlee/Lophorina-releases/releases/download/v1.0.8/Lophorina.dmg" length="9767572" type="application/octet-stream" sparkle:edSignature="ez6Y+lf67viIbWDuerIMWzFXuc0aGoGRtk22mBqdVWeS6FqXOKJbgtW72tspyOz6PcaxbhzZ/fApfYrII8xqCQ=="/>
+            <enclosure url="https://github.com/segunlee/Lophorina-releases/releases/download/v1.0.8/Lophorina.dmg" length="9767183" type="application/octet-stream" sparkle:edSignature="78T+Wo9yCTNJblXs8JYbcnUpi1ZYgdpIMEYEMHdoyf2xZHXScbQkiCNvBKHMw4f207iVZKux8CJGbkAztRI5Aw=="/>
         </item>
         <item>
             <title>1.0.7</title>
